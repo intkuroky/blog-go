@@ -1,0 +1,5 @@
+package: github.com/intkuroky/blog-go
+import:
+- package: github.com/fpay/gopress
+- package: github.com/labstack/echo
+  version: ~3.2.3
